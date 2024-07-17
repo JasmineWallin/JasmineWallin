@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JasmineWallin
-- 👀 I’m interested in software, development, data analysis
+- 👀 I’m interested in software development, front end engineering, data analysis
 - 🙀 I love the environment, social justice, free healthcare, and the arts
 - 🌱 I’m currently learning about data analysis through MS SQL and matplotlib!
 - 💞️ I’m looking to collaborate on job searching! (its tough out here)
